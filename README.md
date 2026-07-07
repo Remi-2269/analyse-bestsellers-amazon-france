@@ -123,8 +123,6 @@ L’analyse permet ainsi de mieux comprendre les grandes tendances du marché du
   <img src="https://img.shields.io/badge/Voir%20le%20dashboard-Looker%20Studio-blue?style=for-the-badge" alt="Voir le dashboard Looker Studio">
 </a>
 
-> Astuce : clic droit sur le bouton puis "Ouvrir le lien dans un nouvel onglet".
-
 ## Auteur
 
 Projet réalisé par Rémi TABARD dans le cadre de mon portfolio Data Analyst.
