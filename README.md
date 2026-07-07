@@ -117,7 +117,7 @@ L’analyse permet ainsi de mieux comprendre les grandes tendances du marché du
 
 ## Lien vers le dashboard
 
-Ajouter ici le lien vers le dashboard interactif Looker Studio.
+[Ajouter ici le lien vers le dashboard interactif Looker Studio.](https://datastudio.google.com/s/t4aXBIe7G-I)
 
 ## Auteur
 
