@@ -99,11 +99,7 @@ L’analyse met en évidence plusieurs tendances fortes :
 
 ## Aperçu du dashboard
 
-Ajouter ici une capture d’écran du tableau de bord final.
-
-Exemple :
-
-![Dashboard best-sellers Amazon France](images/dashboard-amazon-best-sellers.png)
+![Dashboard best-sellers Amazon France](images/dashboard.png)
 
 ## Conclusion
 
